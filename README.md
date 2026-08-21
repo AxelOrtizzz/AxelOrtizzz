@@ -1,134 +1,187 @@
 <div align="center">
 
-<!-- ENCABEZADO PRINCIPAL DE TRANSFERMARKT -->
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr bgcolor="#1a2b49">
     <td colspan="3" align="left">
-      <font color="#ffffff" size="6"><b>#21 Axel Ortiz</b></font>
+      <font color="#ffffff" size="6"><b>#89 Axel Ortiz</b></font>
     </td>
   </tr>
-  <tr bgcolor="#ffffff">
-    <td width="25%" align="center" valign="middle">
+  <tr bgcolor="#f2f5f8">
+    <td width="22%" align="center" valign="top">
       <br/>
-      <img src="https://github.com/AxelOrtizzz.png" width="120" style="border-radius:50%;" /><br/>
-      <sub><b>🏆 ISO 27001 | 🏆 FIME UANL</b></sub>
-      <br/><br/>
+      <img src="https://github.com/AxelOrtizzz.png" width="130" style="border-radius:4px;" /><br/><br/>
+      <table border="0" cellpadding="2">
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/%F0%9F%8F%86_ISO_27001-1-0284c7?style=flat-square" /><br/>
+            <img src="https://img.shields.io/badge/%F0%9F%8E%93_FIME_UANL-1-0284c7?style=flat-square" />
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="40%" valign="top">
+    <td width="48%" valign="top">
       <br/>
-      <font color="#000000">
-        <b>Club actual:</b> AcceleraTI / Freelance<br/>
-        <b>Liga / Entorno:</b> Monterrey, NL 🇲🇽<br/>
-        <b>Fichado:</b> Nov 2024<br/>
-        <b>Contrato hasta:</b> Indefinido / Open to Work
+      <font size="2" color="#1a2b49">
+        <b>Nombre completo:</b> Axel Ramon Ortiz Flores<br/>
+        <b>Lugar de nac.:</b> 🇲🇽 Monterrey, Nuevo León<br/>
+        <b>Nacionalidad:</b> 🇲🇽 México<br/>
+        <b>Posición:</b> Backend Developer / Systems Analyst<br/>
+        <b>Pie preferido (Stack):</b> C# / T-SQL<br/>
+        <b>Agente / Contacto:</b> <a href="https://linkedin.com">LinkedIn</a> | <a href="mailto:tu-correo@ejemplo.com">Email</a>
       </font>
     </td>
-    <td width="35%" bgcolor="#3598fe" align="center" valign="middle">
-      <font color="#ffffff" size="2"><b>VALOR DE MERCADO ACTUAL</b></font><br/>
-      <font color="#ffffff" size="6"><b>TOP TALENT €</b></font><br/>
-      <font color="#ffffff" size="1">Última revisión: 2026</font>
+    <td width="30%" valign="top" align="right">
+      <table width="100%" bgcolor="#ffffff" border="1" bordercolor="#e4e7ec" cellpadding="6">
+        <tr>
+          <td align="center">
+            <font size="2" color="#1a2b49"><b>AcceleraTI</b></font><br/>
+            <font size="1" color="#666666">🇲🇽 Software Freelance</font><br/>
+            <font size="1" color="#333333">Fichado: <b>Nov 2024</b></font><br/>
+            <font size="1" color="#333333">Contrato hasta: <b>Indefinido</b></font>
+          </td>
+        </tr>
+      </table>
+      <br/>
+      <table width="100%" bgcolor="#3598fe" cellpadding="8">
+        <tr>
+          <td align="center">
+            <font color="#ffffff" size="1"><b>VALOR DE MERCADO ACTUAL</b></font><br/>
+            <font color="#ffffff" size="6"><b>85.0 mill. €</b></font><br/>
+            <font color="#ffffff" size="1"><i>Última revisión: 2026</i></font>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- BADGES DE VALOR DE MERCADO -->
-<img src="https://img.shields.io/badge/VALOR_DE_MERCADO-HIGH_POTENTIAL-f2d024?style=for-the-badge&labelColor=1a2b49&text_color=ffffff" />
-<img src="https://img.shields.io/badge/CLUB_ACTUAL-FREELANCE_%2F_ACCELERATI-3598fe?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/NACIONALIDAD-MÉXICO_🇲🇽-ce2014?style=for-the-badge&labelColor=1a2b49" />
 
 </div>
 
 <br/>
 
-### 📋 DATOS DEL JUGADOR
-
-| Campo | Información |
-| :--- | :--- |
-| **Nombre en país de origen:** | Axel Ramon Ortiz Flores |
-| **Lugar de nacimiento / Edad:** | Monterrey, Nuevo León 🇲🇽 |
-| **Formación / Cantera:** | FIME - Universidad Autónoma de Nuevo León (UANL) |
-| **Posición principal:** | **Backend Developer** (C#, ASP.NET, PHP) |
-| **Posición secundaria:** | **Database Administrator** (SQL Server, MySQL, T-SQL) |
-| **Pie preferido (Stack clave):** | C# / Stored Procedures |
-| **Equipador (Herramientas):** | Visual Studio, VS Code, SSMS, Git, Azure |
-
----
-
-### 🔄 HISTORIAL DE FICHAJES
-
-<table>
-  <thead>
-    <tr bgcolor="#1a2b49">
-      <th><font color="#ffffff">Temporada</font></th>
-      <th><font color="#ffffff">Fecha</font></th>
-      <th><font color="#ffffff">Último club</font></th>
-      <th><font color="#ffffff">Nuevo club</font></th>
-      <th><font color="#ffffff">Rol / Coste</font></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><b>24/25</b></td>
-      <td align="center">Nov 2024</td>
-      <td><i>Libre</i></td>
-      <td><b>AcceleraTI</b></td>
-      <td>Freelance Software Developer</td>
-    </tr>
-    <tr>
-      <td align="center"><b>23/24</b></td>
-      <td align="center">Nov 2023</td>
-      <td><b>FIME UANL</b></td>
-      <td><b>Callaway Golf Mx</b></td>
-      <td>Systems Engineer & IT Intern</td>
-    </tr>
-  </tbody>
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr bgcolor="#1a2b49">
+    <td colspan="5"><font color="#ffffff"><b>DATOS DE RENDIMIENTO (TEMPORADA 24/25)</b></font></td>
+  </tr>
+  <tr bgcolor="#e8ecf2" align="center">
+    <td><font size="2" color="#1a2b49"><b>👟 Partidos (Repos)</b></font></td>
+    <td><font size="2" color="#1a2b49"><b>⚽ Goles (Deploys)</b></font></td>
+    <td><font size="2" color="#1a2b49"><b>🅰️ Asistencias (PRs)</b></font></td>
+    <td><font size="2" color="#1a2b49"><b>🟨 Tarjetas (Bugs)</b></font></td>
+    <td><font size="2" color="#1a2b49"><b>⏱️ Minutos (Horas Code)</b></font></td>
+  </tr>
+  <tr bgcolor="#ffffff" align="center">
+    <td><b>18</b></td>
+    <td><b>45</b></td>
+    <td><b>32</b></td>
+    <td><b>2</b></td>
+    <td><b>1,850'</b></td>
+  </tr>
 </table>
 
----
+<br/>
 
-### 📊 DATOS DE RENDIMIENTO POR COMPETICIÓN
-
-<table>
-  <thead>
-    <tr bgcolor="#1a2b49">
-      <th><font color="#ffffff">Competición (Área)</font></th>
-      <th><font color="#ffffff">Tecnologías Clave</font></th>
-      <th><font color="#ffffff">Efectividad / Nivel</font></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Desarrollo Backend</b></td>
-      <td>C#, ASP.NET, PHP, JavaScript</td>
-      <td>████████░░ <b>85%</b></td>
-    </tr>
-    <tr>
-      <td><b>Bases de Datos</b></td>
-      <td>MS SQL Server, MySQL, T-SQL, Stored Procedures</td>
-      <td>█████████░ <b>90%</b></td>
-    </tr>
-    <tr>
-      <td><b>Infraestructura & Admin</b></td>
-      <td>M365 Admin, Entra ID, Active Directory, IIS, Linux Samba</td>
-      <td>████████░░ <b>80%</b></td>
-    </tr>
-    <tr>
-      <td><b>Cloud & Web Tools</b></td>
-      <td>Azure Blob Storage, WordPress, GA4, Git</td>
-      <td>███████░░░ <b>75%</b></td>
-    </tr>
-  </tbody>
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr bgcolor="#1a2b49">
+    <td width="50%"><font color="#ffffff"><b>DATOS DEL JUGADOR</b></font></td>
+    <td width="50%"><font color="#ffffff"><b>POSICIÓN EN DETALLE</b></font></td>
+  </tr>
+  <tr bgcolor="#ffffff" valign="top">
+    <td>
+      <table width="100%" cellpadding="4">
+        <tr><td><b>Formación / Cantera:</b></td><td>FIME - UANL</td></tr>
+        <tr><td><b>Posición principal:</b></td><td>Backend Developer (C#, ASP.NET, PHP)</td></tr>
+        <tr><td><b>Posición secundaria:</b></td><td>DB Administrator (SQL Server, MySQL)</td></tr>
+        <tr><td><b>Equipador / Tools:</b></td><td>Visual Studio, SSMS, Git, Azure</td></tr>
+        <tr><td><b>Certificaciones:</b></td><td>ISO 27001 Security Standard</td></tr>
+      </table>
+    </td>
+    <td align="center" bgcolor="#223659">
+      <font color="#ffffff" size="2">
+        <br/>
+        <code>[ DB Admin / CB ]</code><br/>
+        <code>↓</code><br/>
+        <code>[ Cloud & Admin / CM ]</code><br/>
+        <code>↓</code><br/>
+        <b><code>🎯 [ Backend Dev / ST ] 🎯</code></b>
+        <br/><br/>
+        <b>Posición principal:</b> Delantero Backend (C# / .NET)<br/>
+        <b>Posición secundaria:</b> Mediocentro Organizador (SQL Server)
+      </font>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr bgcolor="#1a2b49">
+    <td colspan="5"><font color="#ffffff"><b>HISTORIAL DE FICHAJES</b></font></td>
+  </tr>
+  <tr bgcolor="#e8ecf2">
+    <th><font size="2" color="#1a2b49">Temporada</font></th>
+    <th><font size="2" color="#1a2b49">Fecha</font></th>
+    <th><font size="2" color="#1a2b49">Último club</font></th>
+    <th><font size="2" color="#1a2b49">Nuevo club</font></th>
+    <th><font size="2" color="#1a2b49">Coste / Rol</font></th>
+  </tr>
+  <tr bgcolor="#ffffff" align="center">
+    <td><b>24/25</b></td>
+    <td>01/11/2024</td>
+    <td><i>Libre</i></td>
+    <td><b>AcceleraTI</b></td>
+    <td>Freelance Software Developer</td>
+  </tr>
+  <tr bgcolor="#f9faeb" align="center">
+    <td><b>23/24</b></td>
+    <td>01/11/2023</td>
+    <td><b>FIME UANL</b></td>
+    <td><b>Callaway Golf Mx</b></td>
+    <td>Systems Engineer & IT Intern</td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr bgcolor="#1a2b49">
+    <td colspan="5"><font color="#ffffff"><b>DATOS DE RENDIMIENTO DE TODA LA CARRERA</b></font></td>
+  </tr>
+  <tr bgcolor="#e8ecf2">
+    <th><font size="2" color="#1a2b49">Competición (Stack)</font></th>
+    <th align="center"><font size="2" color="#1a2b49">👟 Repos</font></th>
+    <th align="center"><font size="2" color="#1a2b49">⚽ Deploys</font></th>
+    <th align="center"><font size="2" color="#1a2b49">🅰️ PRs</font></th>
+    <th align="center"><font size="2" color="#1a2b49">⏱️ Minutos</font></th>
+  </tr>
+  <tr bgcolor="#ffffff">
+    <td><b>Desarrollo Backend (C#, ASP.NET, PHP)</b></td>
+    <td align="center">12</td>
+    <td align="center">40</td>
+    <td align="center">25</td>
+    <td align="center">2,400'</td>
+  </tr>
+  <tr bgcolor="#f9faeb">
+    <td><b>Bases de Datos (SQL Server, MySQL, T-SQL)</b></td>
+    <td align="center">15</td>
+    <td align="center">55</td>
+    <td align="center">30</td>
+    <td align="center">3,100'</td>
+  </tr>
+  <tr bgcolor="#ffffff">
+    <td><b>Infraestructura & Admin (Entra ID, M365, IIS)</b></td>
+    <td align="center">8</td>
+    <td align="center">20</td>
+    <td align="center">15</td>
+    <td align="center">1,500'</td>
+  </tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-### 📊 ESTADÍSTICAS EN VIVO
-
-<img src="https://github-readme-stats.vercel.app/api?username=AxelOrtizzz&show_icons=true&bg_color=1a2b49&title_color=3598fe&text_color=ffffff&icon_color=f2d024&border_color=3598fe" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AxelOrtizzz&show_icons=true&bg_color=1a2b49&title_color=3598fe&text_color=ffffff&icon_color=3598fe&border_color=3598fe" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelOrtizzz&layout=compact&bg_color=1a2b49&title_color=3598fe&text_color=ffffff&border_color=3598fe" width="48%" />
 
 </div>
