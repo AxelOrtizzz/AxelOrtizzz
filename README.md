@@ -9,7 +9,6 @@
   <tr bgcolor="#f2f5f8">
     <td width="22%" align="center" valign="top">
       <br/>
-      <img src="https://github.com/AxelOrtizzz.png" width="130" style="border-radius:4px;" /><br/><br/>
       <table border="0" cellpadding="2">
         <tr>
           <td align="center">
