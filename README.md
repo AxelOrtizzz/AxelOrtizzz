@@ -22,10 +22,10 @@
       <br/>
       <font size="2" color="#1a2b49">
         <b>Nombre completo:</b> Axel Ramon Ortiz Flores<br/>
-        <b>Lugar de nac.:</b> 🇲🇽 Monterrey, Nuevo León<br/>
+        <b>Residencia:</b> 🇲🇽 Gral. Zuazua, Nuevo León<br/>
         <b>Nacionalidad:</b> 🇲🇽 México<br/>
-        <b>Posición:</b> Backend Developer / Systems Analyst<br/>
-        <b>Pie preferido (Stack):</b> C# / T-SQL<br/>
+        <b>Posición:</b> Ingeniero de Software<br/>
+        <b>Pie preferido (Stack):</b> C# .Net<br/>
         <b>Agente / Contacto:</b> <a href="https://linkedin.com">LinkedIn</a> | <a href="mailto:tu-correo@ejemplo.com">Email</a>
       </font>
     </td>
@@ -33,9 +33,9 @@
       <table width="100%" bgcolor="#ffffff" border="1" bordercolor="#e4e7ec" cellpadding="6">
         <tr>
           <td align="center">
-            <font size="2" color="#1a2b49"><b>AcceleraTI</b></font><br/>
-            <font size="1" color="#666666">🇲🇽 Software Freelance</font><br/>
-            <font size="1" color="#333333">Fichado: <b>Nov 2024</b></font><br/>
+            <font size="2" color="#1a2b49"><b>Servicios Juridicos SOUL</b></font><br/>
+            <font size="1" color="#666666">🇲🇽 Analista de Sistemas</font><br/>
+            <font size="1" color="#333333">Fichado: <b>Octubre 2024</b></font><br/>
             <font size="1" color="#333333">Contrato hasta: <b>Indefinido</b></font>
           </td>
         </tr>
@@ -45,7 +45,7 @@
         <tr>
           <td align="center">
             <font color="#ffffff" size="1"><b>VALOR DE MERCADO ACTUAL</b></font><br/>
-            <font color="#ffffff" size="6"><b>85.0 mill. €</b></font><br/>
+            <font color="#ffffff" size="6"><b>$MX</b></font><br/>
             <font color="#ffffff" size="1"><i>Última revisión: 2026</i></font>
           </td>
         </tr>
@@ -92,7 +92,7 @@
         <tr><td><b>Posición principal:</b></td><td>Backend Developer (C#, ASP.NET, PHP)</td></tr>
         <tr><td><b>Posición secundaria:</b></td><td>DB Administrator (SQL Server, MySQL)</td></tr>
         <tr><td><b>Equipador / Tools:</b></td><td>Visual Studio, SSMS, Git, Azure</td></tr>
-        <tr><td><b>Certificaciones:</b></td><td>ISO 27001 Security Standard</td></tr>
+        <tr><td><b>Cursos / certificados:</b></td><td>ISO 27001 Security Standard</td></tr>
       </table>
     </td>
     <td align="center" bgcolor="#223659">
