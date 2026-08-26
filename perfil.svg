@@ -60,10 +60,10 @@
      
      <!-- Escudo Simulado SJ -->
      <path d="M 15 18 L 45 18 L 45 38 C 45 53 30 63 30 63 C 30 63 15 53 15 38 Z" fill="#001a3f"/>
-     <text x="30" y="38" font-family="Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">SOUL</text>
+     <text x="30" y="38" font-family="Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">SJ</text>
 
      <text x="55" y="26" font-family="Arial, sans-serif" font-size="12" fill="#0055a4" font-weight="bold">Servicios Jurídicos SOUL</text>
-     <text x="55" y="42" font-family="Arial, sans-serif" font-size="10" fill="#555555">Sector: Legal &amp; Serv. Jurídicos</text>
+     <text x="55" y="42" font-family="Arial, sans-serif" font-size="10" fill="#555555">Sector: Legal &amp; / Privado</text>
      <text x="55" y="57" font-family="Arial, sans-serif" font-size="10" fill="#555555">Fichado: <tspan font-weight="bold">Octubre 2025</tspan></text>
      
      <!-- Badge OPEN TO WORK -->
@@ -76,6 +76,6 @@
      <rect width="240" height="105" fill="#5da5ff"/>
      <text x="120" y="50" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle">+3 Años</text>
      <text x="120" y="70" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">de experiencia</text>
-     <text x="120" y="90" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Última revisión: Temp. 26/27</text>
+     <text x="120" y="90" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle" opacity="0.9">Última revisión: Julio 2026</text>
   </g>
 </svg>
