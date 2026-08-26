@@ -1,101 +1,71 @@
-markdown_content = """<div align="center">
-  <h1 style="color: #00193f;">#10 Axel Ramón Ortiz Flores</h1>
-  <p><i>"Despliegue táctico en el desarrollo de software y administración de sistemas"</i></p>
-</div>
+<h1 style="color: #002d5e; font-family: sans-serif; font-weight: 400; margin-bottom: 5px;">#10 Axel Ramón Ortiz Flores</h1>
 
----
-
-### 📋 DATOS DEL JUGADOR 
-
-<table style="width: 100%; border-collapse: collapse;">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td width="60%">
-      <b>Lugar de nac.:</b> 🇲🇽 Zuazua, Nuevo León<br>
-      <b>Nacionalidad:</b> 🇲🇽 México<br>
-      <b>Perfil:</b> Ing. en Sistemas / Software<br>
-      <b>Posición Principal:</b> Analista de Sistemas<br>
-      <b>Posición Secundaria:</b> Desarrollador Freelance<br>
-      <b>Pie:</b> Derecho (y código limpio)<br>
-      <b>Club actual (Laboral):</b> Servicios Jurídicos SOUL & AcceleraTI<br>
-      <b>Club actual (Amateur):</b> Dep. Chester (Defensa / Lateral)
+    <!-- IZQUIERDA: Trofeos y Datos Personales -->
+    <td width="70%" valign="top" bgcolor="#f4f4f4" style="border: 1px solid #e0e0e0; padding: 15px;">
+      
+      <!-- SECCIÓN TROFEOS -->
+      <div style="margin-bottom: 15px;">
+        <!-- Puedes cambiar el número al final del link para ajustar tus "títulos" -->
+        <img src="https://img.shields.io/badge/🎓_Ing._en_Sistemas-1-002d5e?style=flat-square&logoColor=white" height="32" alt="Ingeniería"> &nbsp;
+        <img src="https://img.shields.io/badge/💻_Desarrollo_C%23-3-002d5e?style=flat-square&logoColor=white" height="32" alt="Proyectos C#"> &nbsp;
+        <img src="https://img.shields.io/badge/🗄️_Bases_de_Datos-5-002d5e?style=flat-square&logoColor=white" height="32" alt="Bases de Datos"> &nbsp;
+        <img src="https://img.shields.io/badge/☁️_Infraestructura-4-002d5e?style=flat-square&logoColor=white" height="32" alt="Infraestructura IT">
+      </div>
+      
+      <hr style="border: 0; height: 2px; background-color: #ffffff; margin-bottom: 15px;">
+      
+      <!-- SECCIÓN DATOS -->
+      <table width="100%" style="font-size: 13px; color: #333333; font-family: sans-serif;">
+        <tr>
+          <td width="50%" valign="top" style="line-height: 1.8;">
+            <b>Lugar de nac.:</b> 🇲🇽 Zuazua, N.L.<br>
+            <b>Nacionalidad:</b> 🇲🇽 México<br>
+            <b>Formación:</b> Ing. en Sistemas
+          </td>
+          <td width="50%" valign="top" style="line-height: 1.8;">
+            <b>Posición principal:</b> Analista de Sistemas<br>
+            <b>Posición secundaria:</b> Desarrollador Freelance<br>
+            <b>Pie (Código):</b> Derecho / Clean Code
+          </td>
+        </tr>
+      </table>
+
     </td>
-    <td width="40%" align="center" style="background-color: #65a8fc; color: white; border-radius: 5px; padding: 10px;">
-      <h3 style="margin: 0; color: white;">VALOR DE MERCADO</h3>
-      <h2 style="margin: 5px 0; color: white;">+3 Años de Exp.</h2>
-      <p style="margin: 0; font-size: 12px; color: #f0f0f0;">Última revisión: Temporada 26/27</p>
+    
+    <!-- ESPACIO SEPARADOR -->
+    <td width="2%" bgcolor="#ffffff"></td>
+    
+    <!-- DERECHA: Club y Valor -->
+    <td width="28%" valign="top">
+      
+      <!-- SECCIÓN CLUB -->
+      <table width="100%" cellspacing="0" cellpadding="10" bgcolor="#ffffff" style="border: 1px solid #e0e0e0; margin-bottom: 8px;">
+        <tr>
+          <td align="center" width="35%">
+             <!-- Logo generado con las iniciales de tu empresa -->
+            <img src="https://ui-avatars.com/api/?name=S+J&background=002d5e&color=fff&size=55&rounded=true" style="border-radius: 5px;">
+          </td>
+          <td width="65%" style="font-size: 11px; color: #333333; line-height: 1.4; font-family: sans-serif;">
+            <b style="color: #0055a4; font-size: 13px;">Servicios Jurídicos SOUL</b><br>
+            Sector: 💼 Privado<br>
+            Fichado: 10/2025<br>
+            Agente: AcceleraTI (Freelance)
+          </td>
+        </tr>
+      </table>
+      
+      <!-- SECCIÓN VALOR (AÑOS DE EXP) -->
+      <table width="100%" cellspacing="0" cellpadding="15" bgcolor="#67a6ff" style="border-radius: 2px;">
+        <tr>
+          <td align="center" style="color: #ffffff; font-family: sans-serif;">
+            <span style="font-size: 38px; font-weight: normal;">3.00</span> <span style="font-size: 16px;">años</span><br>
+            <span style="font-size: 10px; opacity: 0.9;">Última revisión: Temporada 26/27</span>
+          </td>
+        </tr>
+      </table>
+
     </td>
   </tr>
 </table>
-
----
-
-### ⚽ POSICIÓN EN DETALLE (Stack Tecnológico)
-
-<table style="width: 100%;">
-  <tr>
-    <td width="50%">
-      <ul>
-        <li><b>Delantera (Frontend):</b> JavaScript, HTML, CSS</li>
-        <li><b>Mediocampo (Backend):</b> C#, ASP.NET (WebForms), PHP</li>
-        <li><b>Defensa (Bases de Datos):</b> SQL Server, T-SQL, Stored Procedures</li>
-        <li><b>Portería (Infraestructura):</b> VMware ESXi, Windows M365, Linux Samba, FortiGate VPN, Tableau Server</li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <!-- Mapa de calor/posición simulado -->
-      <img src="https://img.shields.io/badge/Analista_de_Sistemas-00193f?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Desarrollo_Backend-1a85f6?style=for-the-badge" /><br><br>
-      <img src="https://img.shields.io/badge/Gestión_de_BD-00193f?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔄 HISTORIAL DE FICHAJES (Trayectoria Profesional)
-
-| Temporada | Fecha | Último Club | Nuevo Club | Posición / Rol |
-| :---: | :---: | :--- | :--- | :--- |
-| **25/26** | Oct 2025 | Callaway Golf Mx | **Servicios Jurídicos SOUL** | Analista de Sistemas |
-| **24/25** | Nov 2024 | Agente Libre | **AcceleraTI** | Desarrollador de Software (Freelance) |
-| **24/25** | Mar 2024 | Callaway Golf Mx (Fuerzas Básicas) | **Callaway Golf Mx** | Ingeniero en Sistemas |
-| **23/24** | Nov 2023 | Universidad | **Callaway Golf Mx** | Practicante de IT |
-
----
-
-### 📊 DATOS DE RENDIMIENTO (Estadísticas de GitHub)
-
-> 💡 *Nota: Sustituye `TU_USUARIO` en los enlaces de las imágenes por tu nombre de usuario real de GitHub.*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true&title_color=00193f&text_color=333333&bg_color=ffffff&icon_color=1a85f6" alt="Estadísticas de GitHub" />
-</div>
-<br>
-
-<table style="width: 100%;">
-  <tr>
-    <td align="center">
-      🏟️ <b>Partidos Disputados (Repos)</b><br>
-      <img src="https://img.shields.io/github/repos/TU_USUARIO?style=flat-square&color=00193f&label=Repositorios">
-    </td>
-    <td align="center">
-      ⚽ <b>Goles Anotados (Commits)</b><br>
-      <img src="https://img.shields.io/badge/Commits-Históricos-1a85f6?style=flat-square">
-    </td>
-    <td align="center">
-      👟 <b>Asistencias (PRs)</b><br>
-      <img src="https://img.shields.io/badge/Pull_Requests-Activas-00193f?style=flat-square">
-    </td>
-  </tr>
-</table>
-
----
-<div align="center">
-  <p><i>Apoyando al C.F. Monterrey 🇫🇮 | Optimizando bases de datos | Defendiendo en las canchas sintéticas</i></p>
-</div>
-"""
-
-with open('/mnt/data/README-Transfermarkt-Sin-Imagen.md', 'w', encoding='utf-8') as f:
-    f.write(markdown_content)
-
-print("File generated.")
