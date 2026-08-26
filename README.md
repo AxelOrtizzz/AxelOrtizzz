@@ -1,186 +1,101 @@
-<div align="center">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
-  <tr bgcolor="#1a2b49">
-    <td colspan="3" align="left">
-      <font color="#ffffff" size="6"><b>#89 Axel Ortiz</b></font>
-    </td>
-  </tr>
-  <tr bgcolor="#f2f5f8">
-    <td width="22%" align="center" valign="top">
-      <br/>
-      <table border="0" cellpadding="2">
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/%F0%9F%8F%86_ISO_27001-1-0284c7?style=flat-square" /><br/>
-            <img src="https://img.shields.io/badge/%F0%9F%8E%93_FIME_UANL-1-0284c7?style=flat-square" />
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="48%" valign="top">
-      <br/>
-      <font size="2" color="#1a2b49">
-        <b>Nombre completo:</b> Axel Ramon Ortiz Flores<br/>
-        <b>Residencia:</b> 🇲🇽 Gral. Zuazua, Nuevo León<br/>
-        <b>Nacionalidad:</b> 🇲🇽 México<br/>
-        <b>Posición:</b> Ingeniero de Software<br/>
-        <b>Pie preferido (Stack):</b> C# .Net<br/>
-        <b>Agente / Contacto:</b> <a href="https://linkedin.com">LinkedIn</a> | <a href="mailto:tu-correo@ejemplo.com">Email</a>
-      </font>
-    </td>
-    <td width="30%" valign="top" align="right">
-      <table width="100%" bgcolor="#ffffff" border="1" bordercolor="#e4e7ec" cellpadding="6">
-        <tr>
-          <td align="center">
-            <font size="2" color="#1a2b49"><b>Servicios Juridicos SOUL</b></font><br/>
-            <font size="1" color="#666666">🇲🇽 Analista de Sistemas</font><br/>
-            <font size="1" color="#333333">Fichado: <b>Octubre 2024</b></font><br/>
-            <font size="1" color="#333333">Contrato hasta: <b>Indefinido</b></font>
-          </td>
-        </tr>
-      </table>
-      <br/>
-      <table width="100%" bgcolor="#3598fe" cellpadding="8">
-        <tr>
-          <td align="center">
-            <font color="#ffffff" size="1"><b>VALOR DE MERCADO ACTUAL</b></font><br/>
-            <font color="#ffffff" size="6"><b>$MX</b></font><br/>
-            <font color="#ffffff" size="1"><i>Última revisión: 2026</i></font>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
+markdown_content = """<div align="center">
+  <h1 style="color: #00193f;">#10 Axel Ramón Ortiz Flores</h1>
+  <p><i>"Despliegue táctico en el desarrollo de software y administración de sistemas"</i></p>
 </div>
 
-<br/>
+---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
-  <tr bgcolor="#1a2b49">
-    <td colspan="5"><font color="#ffffff"><b>DATOS DE RENDIMIENTO (TEMPORADA 24/25)</b></font></td>
-  </tr>
-  <tr bgcolor="#e8ecf2" align="center">
-    <td><font size="2" color="#1a2b49"><b>👟 Partidos (Repos)</b></font></td>
-    <td><font size="2" color="#1a2b49"><b>⚽ Goles (Deploys)</b></font></td>
-    <td><font size="2" color="#1a2b49"><b>🅰️ Asistencias (PRs)</b></font></td>
-    <td><font size="2" color="#1a2b49"><b>🟨 Tarjetas (Bugs)</b></font></td>
-    <td><font size="2" color="#1a2b49"><b>⏱️ Minutos (Horas Code)</b></font></td>
-  </tr>
-  <tr bgcolor="#ffffff" align="center">
-    <td><b>18</b></td>
-    <td><b>45</b></td>
-    <td><b>32</b></td>
-    <td><b>2</b></td>
-    <td><b>1,850'</b></td>
-  </tr>
-</table>
+### 📋 DATOS DEL JUGADOR 
 
-<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
-  <tr bgcolor="#1a2b49">
-    <td width="50%"><font color="#ffffff"><b>DATOS DEL JUGADOR</b></font></td>
-    <td width="50%"><font color="#ffffff"><b>POSICIÓN EN DETALLE</b></font></td>
-  </tr>
-  <tr bgcolor="#ffffff" valign="top">
-    <td>
-      <table width="100%" cellpadding="4">
-        <tr><td><b>Formación / Cantera:</b></td><td>FIME - UANL</td></tr>
-        <tr><td><b>Posición principal:</b></td><td>Backend Developer (C#, ASP.NET, PHP)</td></tr>
-        <tr><td><b>Posición secundaria:</b></td><td>DB Administrator (SQL Server, MySQL)</td></tr>
-        <tr><td><b>Equipador / Tools:</b></td><td>Visual Studio, SSMS, Git, Azure</td></tr>
-        <tr><td><b>Cursos / certificados:</b></td><td>ISO 27001 Security Standard</td></tr>
-      </table>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td width="60%">
+      <b>Lugar de nac.:</b> 🇲🇽 Zuazua, Nuevo León<br>
+      <b>Nacionalidad:</b> 🇲🇽 México<br>
+      <b>Perfil:</b> Ing. en Sistemas / Software<br>
+      <b>Posición Principal:</b> Analista de Sistemas<br>
+      <b>Posición Secundaria:</b> Desarrollador Freelance<br>
+      <b>Pie:</b> Derecho (y código limpio)<br>
+      <b>Club actual (Laboral):</b> Servicios Jurídicos SOUL & AcceleraTI<br>
+      <b>Club actual (Amateur):</b> Dep. Chester (Defensa / Lateral)
     </td>
-    <td align="center" bgcolor="#223659">
-      <font color="#ffffff" size="2">
-        <br/>
-        <code>[ DB Admin / CB ]</code><br/>
-        <code>↓</code><br/>
-        <code>[ Cloud & Admin / CM ]</code><br/>
-        <code>↓</code><br/>
-        <b><code>🎯 [ Backend Dev / ST ] 🎯</code></b>
-        <br/><br/>
-        <b>Posición principal:</b> Delantero Backend (C# / .NET)<br/>
-        <b>Posición secundaria:</b> Mediocentro Organizador (SQL Server)
-      </font>
+    <td width="40%" align="center" style="background-color: #65a8fc; color: white; border-radius: 5px; padding: 10px;">
+      <h3 style="margin: 0; color: white;">VALOR DE MERCADO</h3>
+      <h2 style="margin: 5px 0; color: white;">+3 Años de Exp.</h2>
+      <p style="margin: 0; font-size: 12px; color: #f0f0f0;">Última revisión: Temporada 26/27</p>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
-  <tr bgcolor="#1a2b49">
-    <td colspan="5"><font color="#ffffff"><b>HISTORIAL DE FICHAJES</b></font></td>
-  </tr>
-  <tr bgcolor="#e8ecf2">
-    <th><font size="2" color="#1a2b49">Temporada</font></th>
-    <th><font size="2" color="#1a2b49">Fecha</font></th>
-    <th><font size="2" color="#1a2b49">Último club</font></th>
-    <th><font size="2" color="#1a2b49">Nuevo club</font></th>
-    <th><font size="2" color="#1a2b49">Coste / Rol</font></th>
-  </tr>
-  <tr bgcolor="#ffffff" align="center">
-    <td><b>24/25</b></td>
-    <td>01/11/2024</td>
-    <td><i>Libre</i></td>
-    <td><b>AcceleraTI</b></td>
-    <td>Freelance Software Developer</td>
-  </tr>
-  <tr bgcolor="#f9faeb" align="center">
-    <td><b>23/24</b></td>
-    <td>01/11/2023</td>
-    <td><b>FIME UANL</b></td>
-    <td><b>Callaway Golf Mx</b></td>
-    <td>Systems Engineer & IT Intern</td>
+### ⚽ POSICIÓN EN DETALLE (Stack Tecnológico)
+
+<table style="width: 100%;">
+  <tr>
+    <td width="50%">
+      <ul>
+        <li><b>Delantera (Frontend):</b> JavaScript, HTML, CSS</li>
+        <li><b>Mediocampo (Backend):</b> C#, ASP.NET (WebForms), PHP</li>
+        <li><b>Defensa (Bases de Datos):</b> SQL Server, T-SQL, Stored Procedures</li>
+        <li><b>Portería (Infraestructura):</b> VMware ESXi, Windows M365, Linux Samba, FortiGate VPN, Tableau Server</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <!-- Mapa de calor/posición simulado -->
+      <img src="https://img.shields.io/badge/Analista_de_Sistemas-00193f?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Desarrollo_Backend-1a85f6?style=for-the-badge" /><br><br>
+      <img src="https://img.shields.io/badge/Gestión_de_BD-00193f?style=for-the-badge" />
+    </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="6">
-  <tr bgcolor="#1a2b49">
-    <td colspan="5"><font color="#ffffff"><b>DATOS DE RENDIMIENTO DE TODA LA CARRERA</b></font></td>
-  </tr>
-  <tr bgcolor="#e8ecf2">
-    <th><font size="2" color="#1a2b49">Competición (Stack)</font></th>
-    <th align="center"><font size="2" color="#1a2b49">👟 Repos</font></th>
-    <th align="center"><font size="2" color="#1a2b49">⚽ Deploys</font></th>
-    <th align="center"><font size="2" color="#1a2b49">🅰️ PRs</font></th>
-    <th align="center"><font size="2" color="#1a2b49">⏱️ Minutos</font></th>
-  </tr>
-  <tr bgcolor="#ffffff">
-    <td><b>Desarrollo Backend (C#, ASP.NET, PHP)</b></td>
-    <td align="center">12</td>
-    <td align="center">40</td>
-    <td align="center">25</td>
-    <td align="center">2,400'</td>
-  </tr>
-  <tr bgcolor="#f9faeb">
-    <td><b>Bases de Datos (SQL Server, MySQL, T-SQL)</b></td>
-    <td align="center">15</td>
-    <td align="center">55</td>
-    <td align="center">30</td>
-    <td align="center">3,100'</td>
-  </tr>
-  <tr bgcolor="#ffffff">
-    <td><b>Infraestructura & Admin (Entra ID, M365, IIS)</b></td>
-    <td align="center">8</td>
-    <td align="center">20</td>
-    <td align="center">15</td>
-    <td align="center">1,500'</td>
-  </tr>
-</table>
+### 🔄 HISTORIAL DE FICHAJES (Trayectoria Profesional)
 
-<br/>
+| Temporada | Fecha | Último Club | Nuevo Club | Posición / Rol |
+| :---: | :---: | :--- | :--- | :--- |
+| **25/26** | Oct 2025 | Callaway Golf Mx | **Servicios Jurídicos SOUL** | Analista de Sistemas |
+| **24/25** | Nov 2024 | Agente Libre | **AcceleraTI** | Desarrollador de Software (Freelance) |
+| **24/25** | Mar 2024 | Callaway Golf Mx (Fuerzas Básicas) | **Callaway Golf Mx** | Ingeniero en Sistemas |
+| **23/24** | Nov 2023 | Universidad | **Callaway Golf Mx** | Practicante de IT |
+
+---
+
+### 📊 DATOS DE RENDIMIENTO (Estadísticas de GitHub)
+
+> 💡 *Nota: Sustituye `TU_USUARIO` en los enlaces de las imágenes por tu nombre de usuario real de GitHub.*
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AxelOrtizzz&show_icons=true&bg_color=1a2b49&title_color=3598fe&text_color=ffffff&icon_color=3598fe&border_color=3598fe" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelOrtizzz&layout=compact&bg_color=1a2b49&title_color=3598fe&text_color=ffffff&border_color=3598fe" width="48%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true&title_color=00193f&text_color=333333&bg_color=ffffff&icon_color=1a85f6" alt="Estadísticas de GitHub" />
 </div>
+<br>
+
+<table style="width: 100%;">
+  <tr>
+    <td align="center">
+      🏟️ <b>Partidos Disputados (Repos)</b><br>
+      <img src="https://img.shields.io/github/repos/TU_USUARIO?style=flat-square&color=00193f&label=Repositorios">
+    </td>
+    <td align="center">
+      ⚽ <b>Goles Anotados (Commits)</b><br>
+      <img src="https://img.shields.io/badge/Commits-Históricos-1a85f6?style=flat-square">
+    </td>
+    <td align="center">
+      👟 <b>Asistencias (PRs)</b><br>
+      <img src="https://img.shields.io/badge/Pull_Requests-Activas-00193f?style=flat-square">
+    </td>
+  </tr>
+</table>
+
+---
+<div align="center">
+  <p><i>Apoyando al C.F. Monterrey 🇫🇮 | Optimizando bases de datos | Defendiendo en las canchas sintéticas</i></p>
+</div>
+"""
+
+with open('/mnt/data/README-Transfermarkt-Sin-Imagen.md', 'w', encoding='utf-8') as f:
+    f.write(markdown_content)
+
+print("File generated.")
