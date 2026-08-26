@@ -60,7 +60,7 @@
      
      <!-- Escudo Simulado SJ -->
      <path d="M 15 18 L 45 18 L 45 38 C 45 53 30 63 30 63 C 30 63 15 53 15 38 Z" fill="#001a3f"/>
-     <text x="30" y="38" font-family="Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">SJ</text>
+     <text x="30" y="38" font-family="Arial, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">SSJ</text>
 
      <text x="55" y="26" font-family="Arial, sans-serif" font-size="12" fill="#0055a4" font-weight="bold">Servicios Jurídicos SOUL</text>
      <text x="55" y="42" font-family="Arial, sans-serif" font-size="10" fill="#555555">Sector: Legal &amp; / Privado</text>
