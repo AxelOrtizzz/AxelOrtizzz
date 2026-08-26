@@ -5,7 +5,7 @@
   <line x1="0" y1="45" x2="920" y2="45" stroke="#dcdcdc" stroke-width="1"/>
 
   <!-- Título: Nombre -->
-  <text x="20" y="32" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#001a3f">#10 Axel Ramón Ortiz Flores</text>
+  <text x="20" y="32" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#001a3f">Axel Ramón Ortiz Flores</text>
 
   <!-- Trofeos (Solo Emojis) -->
   <g transform="translate(20, 58)">
