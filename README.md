@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- ===================== BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=180&section=header&text=Axel%20Ram%C3%B3n%20Ortiz%20Flores&fontSize=38&fontColor=ffffff&desc=Ingeniero%20de%20Software%20%7C%20Soporte%20%26%20Infraestructura%20%7C%20Desarrollo%20.NET&descSize=16&descAlign=52" width="100%"/>
 
 <br/>
 
